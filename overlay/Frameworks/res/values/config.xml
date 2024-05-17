@@ -428,4 +428,8 @@
         <item>920</item>  <!-- sensorLocationY -->
         <item>210</item>  <!-- sensorRadius -->
     </array>
+
+    <!-- Whether to enable Lineage Health Service -->
+    <bool name="config_lineageHealthSupported">true</bool>
+
 </resources>
